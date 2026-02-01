@@ -28,13 +28,13 @@
 ## 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,firebase,git,github,linux,vscode,gcp" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,firebase,git,github,mysql,linux,vscode,gcp" />
 </p>
 
 ## 🚀 Currently Learning & Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,docker,aws,azure" />
 </p>
 
 
